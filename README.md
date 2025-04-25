@@ -1,4 +1,4 @@
-# Heap_allocator
+# Heap-allocator
 Custom Heap allocator written in C.
 
 # Overview
